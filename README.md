@@ -1,5 +1,7 @@
 # Docker::Env
 
+<strong>This gem is deprecated and is no longer maintained.</strong>
+
 This is a small utility for Ruby on Rails developers using Docker in their development environment.
 It creates environment variables similar to those created by docker inside a container linked to other containers.
 It's purpose is to allow you to run your dockerized Rails application outside of a docker container,
